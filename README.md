@@ -1,5 +1,5 @@
 
-### Electronic engineer, specialist in Software Development processes.
+### Development processes.
 👀 I’m interested in learning from new technologies
 
 <div align="center"> <h2> <strong> My Skill Set <strong/></h2></div>
