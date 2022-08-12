@@ -1,5 +1,5 @@
 
-### Development processes.
+### Senior Development  of software processes.
 👀 I’m interested in learning from new technologies
 
 <div align="center"> <h2> <strong> My Skill Set <strong/></h2></div>
